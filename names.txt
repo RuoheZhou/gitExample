@@ -1,1 +1,3 @@
-boss, NetID, lastName, Firstname
+role,NetID,LastName,FirstName
+boss,RuoheZhou,Zhou,Ruohe
+employee,tchow7,Chow,Iris
