@@ -1,4 +1,4 @@
-role,NetID,LastName,FirstName
-boss,RuoheZhou,Zhou,Ruohe
-employee,tchow7,Chow,Iris
-employee,tchow7,Chow,Iris
+role, NetID, Lastname, Firstname
+boss, rzhou73, Zhou, Ruohe
+employee, yjie2, Jie, Yaqi
+employee, tchow7, Chow, Iris
